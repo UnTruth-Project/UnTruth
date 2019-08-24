@@ -18,4 +18,3 @@ The program aims to eliminate the prevailing dominance of Fake News all around t
 
 * AlphaPhiKappa
 * riseandshine0
-* webdotorg
